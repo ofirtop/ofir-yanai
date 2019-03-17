@@ -74,6 +74,6 @@ function gameOver() {
   gIntervalGhosts = 0;
 }
 
-
+console.log('test')
 
 
